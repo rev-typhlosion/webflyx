@@ -1,1 +1,4 @@
-Add quotes
+# Add quotes
+
+"The spice must flow."
+"Fear is the mind-killer."
